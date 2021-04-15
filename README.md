@@ -21,11 +21,13 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sijad&hide=contribs&hide_border=true&theme=dark&count_private=true&include_all_commits=true&bg_color=000000"/>
 <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sijad&theme=dark&langs_count=15&layout=compact&hide_border=true&hide=CSS,HTML,C%2b%2b,Java,C,Objective-C&bg_color=000000" />
 
-### Cute kitty
-
-
-https://user-images.githubusercontent.com/7693001/114913799-2528de00-9e11-11eb-90a7-241388bcbe39.mp4
-
 <br>
+
+<details>
+  <summary>Cute kitty</summary>
+  
+  https://user-images.githubusercontent.com/7693001/114915094-ab91ef80-9e12-11eb-8861-feb49bec597b.mp4
+
+</details>
 
 ;)
