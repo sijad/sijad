@@ -23,7 +23,8 @@
 
 ### Cute kitty
 
-https://user-images.githubusercontent.com/7693001/114912534-a1222680-9e0f-11eb-84a1-92869babab1d.mp4
+
+https://user-images.githubusercontent.com/7693001/114913799-2528de00-9e11-11eb-90a7-241388bcbe39.mp4
 
 <br>
 
