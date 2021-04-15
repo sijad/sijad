@@ -1,16 +1,30 @@
-### Hi there 👋
+## Hi, Nerds! 👋
 
-<!--
-**sijad/sijad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My favourite Technologies and Tools
 
-Here are some ideas to get you started:
+![Go](https://img.shields.io/badge/-Go-black?style=for-the-badge&logo=go&link=https://github.com/sijad)
+![Typescript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript&link=https://github.com/sijad)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&link=https://github.com/sijad) 
+![NextJS](https://img.shields.io/badge/-NextJS-black?style=for-the-badge&logo=vercel&link=https://github.com/sijad)
+![Deno](https://img.shields.io/badge/-Deno-black?style=for-the-badge&logo=deno&link=https://github.com/sijad) 
+
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql&link=https://github.com/sijad)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgresql&link=https://github.com/sijad)
+
+![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker&link=https://github.com/sijad)
+![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux&link=https://github.com/sijad)
+![Neovim](https://img.shields.io/badge/-Neovim-black?style=for-the-badge&logo=neovim&link=https://github.com/sijad)
+
+### Github stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sijad&hide=contribs&hide_border=true&theme=dark&count_private=true&include_all_commits=true&bg_color=000000"/>
+<img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sijad&theme=dark&langs_count=15&layout=compact&hide_border=true&hide=CSS,HTML,C%2b%2b,Java,C,Objective-C&bg_color=000000" />
+
+### Cute kitty
+
+https://user-images.githubusercontent.com/7693001/114912534-a1222680-9e0f-11eb-84a1-92869babab1d.mp4
+
+<br>
+
+;)
